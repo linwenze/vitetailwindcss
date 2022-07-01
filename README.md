@@ -6,7 +6,8 @@ Tailwind CSS IntelliSense
 
 ### 安装 tailwindcss
 `npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat @tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9`
-###初始化tailwind.config.js
+
+### 初始化tailwind.config.js
 `npx tailwindcss init`
 ### tailwind.config.js文件配置
 ```
